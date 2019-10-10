@@ -1,0 +1,605 @@
+#EXTM3U
+#EXTINF:-1,: ********** TDT **********
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9182.ts
+#EXTINF:-1,ES: 24 HORAS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1042.ts
+
+#EXTINF:-1,ES: LA 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/110.ts
+#EXTINF:-1,ES: LA 1 HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9158.ts
+#EXTINF:-1,ES: LA 1 FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/489.ts
+
+#EXTINF:-1,ES: LA 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/109.ts
+#EXTINF:-1,ES: La 2 FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7540.ts
+
+#EXTINF:-1,ES: ANTENA 3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/111.ts
+#EXTINF:-1,ES: ANTENA 3 HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9159.ts
+#EXTINF:-1,ES: ANTENA 3 FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1209.ts
+
+#EXTINF:-1,ES: CUATRO
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/88.ts
+#EXTINF:-1,ES: CUATRO HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9160.ts
+#EXTINF:-1,ES: CUATRO FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/497.ts
+
+#EXTINF:-1,ES: TELECINCO
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/496.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9161.ts
+#EXTINF:-1,ES: TELECINCO FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/79.ts
+
+#EXTINF:-1,ES: LA SEXTA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/81.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9162.ts
+#EXTINF:-1,ES: LA SEXTA  FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1016.ts
+#EXTINF:-1,: ***** CINE *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9183.ts
+
+#EXTINF:-1,ES: MOVISTAR  0#
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1.ts
+#EXTINF:-1,ES: MOVISTAR 0# HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/6814.ts
+#EXTINF:-1,ES: MOVISTAR 0# FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1172.ts
+
+#EXTINF:-1,ES: MOVISTAR ESTRENOS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/17.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8740.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/482.ts
+
+#EXTINF:-1,ES: MOVISTAR  ACCION
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/21.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8741.ts
+#EXTINF:-1,ES: MOVISTAR ACCION FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1180.ts
+
+#EXTINF:-1,ES: MOVISTAR COMEDIA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/22.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9152.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1181.ts
+
+#EXTINF:-1,ES: MOVISTAR DRAMA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/14.ts
+#EXTINF:-1,ES: MOVISTAR DRAMA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9174.ts
+#EXTINF:-1,ES: MOVISTAR DRAMA FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1182.ts
+
+#EXTINF:-1,ES: MOVISTAR DCINE  Ñ
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/48.ts
+
+#EXTINF:-1,ES: MOVISTAR CINEDOC&ROLL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13.ts
+#EXTINF:-1,ES: MOVISTAR CINEDOC&ROLL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9176.ts
+#EXTINF:-1,ES: MOVISTAR CINEDOC&ROLL FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1184.ts
+
+#EXTINF:-1,ES: HOLLYWOOD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/23.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9168.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1195.ts
+
+#EXTINF:-1,ES: TCM
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/45.ts
+#EXTINF:-1,ES: TCM HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9173.ts
+#EXTINF:-1,ES: TCM FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/652.ts
+
+#EXTINF:-1,ES: SUNDANCE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1305.ts
+#EXTINF:-1,ES: SUNDANCE HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9190.ts
+#EXTINF:-1,ES: SUNDANCE FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8735.ts
+
+#EXTINF:-1,ES: DARK
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/628.ts
+
+#EXTINF:-1,ES: XTREM SD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13465.ts
+#EXTINF:-1,ES: XTREM HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9175.ts
+#EXTINF:-1,ES: XTRM FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1191.ts
+
+#EXTINF:-1,ES: SOMOS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7876.ts
+
+#EXTINF:-1,ES: PARAMOUNT CHANNEL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/86.ts
+#EXTINF:-1,ES: TAQUILLA 1 PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13469.ts
+#EXTINF:-1,ES: TAQUILLA2 PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13470.ts
+#EXTINF:-1,ES: TAQUILLA 3 PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13471.ts
+#EXTINF:-1,ES: TAQUILLA 4 PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13472.ts
+#EXTINF:-1,ES: TAQUILLA 5 PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13473.ts
+#EXTINF:-1,ES: TAQUILLA 6 PARA MOVIL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13474.ts
+#EXTINF:-1,: ********** Series *********
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7245.ts
+
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/32.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9178.ts
+#EXTINF:-1,ES: MOVISTAR SERIES FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1185.ts
+
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/33.ts
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9177.ts
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1183.ts
+
+#EXTINF:-1,ES: CALLE 13
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/24.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9169.ts
+#EXTINF:-1,ES: CALLE 13 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1210.ts
+
+#EXTINF:-1,ES: FOX
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/28.ts
+#EXTINF:-1,ES: FOX HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9165.ts
+#EXTINF:-1,ES: FOX FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1186.ts
+
+#EXTINF:-1,ES: FOX LIFE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/20.ts
+#EXTINF:-1,ES: FOX LIVE HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9166.ts
+#EXTINF:-1,ES: FOX LIFE FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1187.ts
+
+#EXTINF:-1,ES: AXN
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18.ts
+#EXTINF:-1,ES: AXN HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9163.ts
+#EXTINF:-1,ES: AXN FULL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1189.ts
+
+#EXTINF:-1,ES: AXN  WHITE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/19.ts
+#EXTINF:-1,ES: AXN WAHITE HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9164.ts
+#EXTINF:-1,ES: AXN  WHITE FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1190.ts
+
+#EXTINF:-1,ES: AMC
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/29.ts
+#EXTINF:-1,ES: AMC FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1188.ts
+
+#EXTINF:-1,ES: TNT
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/30.ts
+#EXTINF:-1,ES: TNT HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9167.ts
+#EXTINF:-1,ES: TNT FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1194.ts
+
+#EXTINF:-1,ES: SYFY
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/15.ts
+#EXTINF:-1,ES: SYFY HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9170.ts
+#EXTINF:-1,ES: SYFY_FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/638.ts
+#EXTINF:-1,ES: COSMOS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/629.ts
+#EXTINF:-1,ES: COSMOS HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9171.ts
+#EXTINF:-1,ES: COSMOPOLITAN _FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/2.ts
+
+#EXTINF:-1,ES: COMEDY  CENTRAL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/26.ts
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9172.ts
+#EXTINF:-1,ES: COMEDY CENTRAL FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5502.ts
+
+#EXTINF:-1,ES: MTV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7.ts
+#EXTINF:-1,ES: FDF
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/46.ts
+
+#EXTINF:-1,ES: DKISS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1192.ts
+#EXTINF:-1,ES: A3SERIES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/82.ts
+#EXTINF:-1,: ***** ESTILO DE VIDA *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9184.ts
+#EXTINF:-1,ES: MEGA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/43.ts
+
+#EXTINF:-1,ES: ENERGY
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/72.ts
+
+#EXTINF:-1,ES: DIVINITY
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/80.ts
+
+#EXTINF:-1,ES: CRIMEN  + INVESTIGACION
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/40.ts
+#EXTINF:-1,ES: DECASA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/449.ts
+#EXTINF:-1,ES: DECASA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9704.ts
+#EXTINF:-1,ES: DECASA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9703.ts
+
+#EXTINF:-1,ES: CANAL COCINA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/117.ts
+#EXTINF:-1,ES: CANAL COCINA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9191.ts
+#EXTINF:-1,ES: CANAL COCINA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8734.ts
+
+#EXTINF:-1,ES: BE MAD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9100.ts
+#EXTINF:-1,ES: BE MAD HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9192.ts
+#EXTINF:-1,ES: BEMAD_FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/546.ts
+
+#EXTINF:-1,ES: NEOX
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/41.ts
+#EXTINF:-1,ES: NOVA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/42.ts
+#EXTINF:-1,: ***** INFANTIL *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9185.ts
+
+#EXTINF:-1,ES: MOVISTAR DISNEY
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/2774.ts
+
+#EXTINF:-1,ES: DISNEY  XD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/44.ts
+#EXTINF:-1,ES: DISNEY JR
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8.ts
+
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/6.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9179.ts
+#EXTINF:-1,ES: DISNEY CHANNEL FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/661.ts
+#EXTINF:-1,ES: CLAN
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/4.ts
+#EXTINF:-1,ES: CLAN HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9180.ts
+#EXTINF:-1,ES: CLAN FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7874.ts
+
+#EXTINF:-1,ES: BOING
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/36.ts
+#EXTINF:-1,ES: CANAL PANDA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/55.ts
+#EXTINF:-1,ES: BABY  TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5.ts
+
+#EXTINF:-1,ES: NICKELODEON
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/70.ts
+#EXTINF:-1,ES: NICKELODEON HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9181.ts
+#EXTINF:-1,ES: NICKELODEON FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/627.ts
+#EXTINF:-1,ES: NICK JR
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/481.ts
+#EXTINF:-1,: ***** DOCUMENTALES *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9186.ts
+
+#EXTINF:-1,ES: HISTORIA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/52.ts
+#EXTINF:-1,ES: HISTORIA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9193.ts
+#EXTINF:-1,ES: HISTORIA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7873.ts
+
+#EXTINF:-1,ES: DISCOVERY  CHANNEL
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9.ts
+
+#EXTINF:-1,ES: ODISEA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/31.ts
+#EXTINF:-1,ES: ODISEA FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18107.ts
+
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/37.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9194.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/6694.ts
+
+#EXTINF:-1,ES: NATIONAL GEOGRAFIC WILD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/34.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAFIC WILD HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9195.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAFIC WILD FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/651.ts
+
+#EXTINF:-1,ES: DMAX
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1171.ts
+
+#EXTINF:-1,ES: TEN
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1014.ts
+
+#EXTINF:-1,ES: BLAZE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7539.ts
+#EXTINF:-1,ES: Viajar
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/56.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9196.ts
+#EXTINF:-1,ES: VIAJAR FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/632.ts
+
+#EXTINF:-1,ES: CAZA  Y PESCA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/11.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9197.ts
+#EXTINF:-1,ES: CAZA Y PESCA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/499.ts
+#EXTINF:-1,ES: Iberalia
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1108.ts
+#EXTINF:-1,: ***** DEPORTES *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/179.ts
+#EXTINF:-1,ES: DAZN PREMIER
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18097.ts
+#EXTINF:-1,ES: DAZN SD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/16326.ts
+#EXTINF:-1,ES: DAZN HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/16325.ts
+#EXTINF:-1,ES: DAZN - MOTOGP FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/15918.ts
+
+#EXTINF:-1,ES: MOVISTAR #VAMOS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/39.ts
+#EXTINF:-1,ES: MOVISTAR VAMOS HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8736.ts
+#EXTINF:-1,ES: MOVISTAR VAMOS FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1173.ts
+#EXTINF:-1,ES: # VAMOS BAR 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18104.ts
+#EXTINF:-1,ES: # VAMOS BAR 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18105.ts
+#EXTINF:-1,ES: LIGA TV PARA MOVILES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9055.ts
+#EXTINF:-1,ES: LIGA TV BAR
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7204.ts
+#EXTINF:-1,ES: LIGA TV BAR HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8738.ts
+#EXTINF:-1,ES: LIGATV BAR FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1003.ts
+#EXTINF:-1,ES: LIGA TV BAR 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/17920.ts
+#EXTINF:-1,ES: LIGA TV 1 BAR
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9086.ts
+#EXTINF:-1,ES: LIGA TV BAR 3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9088.ts
+#EXTINF:-1,ES: LIGA TV BAR 4
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18101.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18102.ts
+#EXTINF:-1,ES: MOVISTAR LALIGA HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/14719.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/15916.ts
+#EXTINF:-1,ES: MOVISTAR LALIGA 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/245.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 1 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5500.ts
+#EXTINF:-1,ES: MOVISTAR  LALIGA 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/246.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 2 FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5501.ts
+#EXTINF:-1,ES: MOVISTAR  LA LIGA 3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/247.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 3 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18100.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 4
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/248.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 5
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/249.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 6
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/250.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 7
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/251.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 8
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1309.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 9
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18098.ts
+#EXTINF:-1,ES: MOVISTAR LA LIGA 10
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18099.ts
+
+#EXTINF:-1,ES: LIGA DE CAMPEONES HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/17837.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1303.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/252.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 1 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/267.ts
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/253.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5499.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 3  España
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/254.ts
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES 4
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/255.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/256.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 5
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18821.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 6
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/257.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 7
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/258.ts
+#EXTINF:-1,ES: MOVISTAR LIGA CAMPEONES 8
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18820.ts
+
+#EXTINF:-1,ES: MOVISTAR  DEPORTE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/77.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/487.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1177.ts
+#EXTINF:-1,ES: MULTIDEPORTE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/2911.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 1 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/14721.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/262.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/263.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/264.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 4
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/265.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 5
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/266.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 6
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18822.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 7
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/14722.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 8
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/14723.ts
+
+#EXTINF:-1,ES: EUROSPORT
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/83.ts
+#EXTINF:-1,ES: EUROSPORT HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9198.ts
+#EXTINF:-1,ES: EUROSPORT FULL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/936.ts
+
+#EXTINF:-1,ES: Eurosport  2
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/47.ts
+
+#EXTINF:-1,ES: MOVISTAR  FORMULA 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/53.ts
+#EXTINF:-1,ES: MOVISTAR F1 HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1050.ts
+#EXTINF:-1,ES: MOVISTAR F1 FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/630.ts
+
+#EXTINF:-1,ES: MOVISTAR  GOLF
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/16.ts
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9200.ts
+#EXTINF:-1,ES: MOVISTAR GOLF FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1176.ts
+
+#EXTINF:-1,ES: REAL MADRID TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/545.ts
+
+#EXTINF:-1,ES: GOL TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/76.ts
+#EXTINF:-1,ES: GOL TV FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/18106.ts
+
+#EXTINF:-1,ES: TELEDEPORTE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/451.ts
+#EXTINF:-1,ES: TELEDEPORTE FULL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7878.ts
+
+#EXTINF:-1,ES: MOVISTAR  TOROS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/35.ts
+#EXTINF:-1,ES: MOVISTAR TOROS HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9199.ts
+#EXTINF:-1,ES: MOVISTAR TOROS FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/582.ts
+#EXTINF:-1,ES: ESPORT 3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7879.ts
+#EXTINF:-1,ES: TV 13
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/2771.ts
+#EXTINF:-1,ES: HIT TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7882.ts
+#EXTINF:-1,ES: 8Tv
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/501.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1041.ts
+#EXTINF:-1,ES: ARAGON TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1045.ts
+#EXTINF:-1,ES: SOL Music
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1193.ts
+#EXTINF:-1,ES: MEZZO LIVE
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1111.ts
+#EXTINF:-1,ES: MEZZO LIVE FULL HD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/5497.ts
+#EXTINF:-1,: ***** AUTONÓMICOS *****
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9188.ts
+#EXTINF:-1,ES: 13 TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7870.ts
+#EXTINF:-1,ES: 7RM FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7877.ts
+#EXTINF:-1,ES: CANAL SUR
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/9702.ts
+#EXTINF:-1,ES: CANAL SUR FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7869.ts
+#EXTINF:-1,ES: CMM FULLHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7871.ts
+#EXTINF:-1,ES: ETB 1
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7867.ts
+#EXTINF:-1,ES: EXTREMADURA TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7881.ts
+#EXTINF:-1,ES: LA OTRA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7868.ts
+#EXTINF:-1,ES: INTERECONOMIA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7872.ts
+#EXTINF:-1,ES: TELEMADRID FHD
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/7866.ts
+#EXTINF:-1,ES: CANAL ORBE21
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/1311.ts
+#EXTINF:-1,ES: FOX NEWS
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8246.ts
+#EXTINF:-1,ES: 324
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13492.ts
+#EXTINF:-1,ES: 324 Exclusiu
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13494.ts
+#EXTINF:-1,ES: TV3
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13491.ts
+#EXTINF:-1,: TV3 Càmeres
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13495.ts
+#EXTINF:-1,ES: 33
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13496.ts
+#EXTINF:-1,ES: Lebrija TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13478.ts
+#EXTINF:-1,ES: Teleonuba
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13479.ts
+#EXTINF:-1,ES: InterAlmería TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13481.ts
+#EXTINF:-1,ES: PTV Málaga
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13482.ts
+#EXTINF:-1,: Cadena Elite
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13485.ts
+#EXTINF:-1,ES: Condavisión
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13487.ts
+#EXTINF:-1,: Alternativa TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13488.ts
+#EXTINF:-1,ES: Bon Dia TV
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/13493.ts
+#EXTINF:-1,ES: CLASSICA
+http://cms.movspain.com:25461/live/LIOw2SIXTJ/PWnugsvjos/8245.ts
